@@ -139,6 +139,8 @@ sqlalchemy==2.0.40
     # via langchain
 starlette==0.46.1
     # via fastapi
+structlog==25.2.0
+    # via -r requirements.in
 tenacity==9.1.2
     # via langchain-core
 typer==0.15.2
